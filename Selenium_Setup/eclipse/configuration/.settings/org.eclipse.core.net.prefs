@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.eclipse.core.net.hasMigrated=true
+proxyData/HTTP/hasAuth=true
+proxyData/HTTP/host=proxy2.wipro.com
+proxyData/HTTP/port=8080
+systemProxiesEnabled=false
