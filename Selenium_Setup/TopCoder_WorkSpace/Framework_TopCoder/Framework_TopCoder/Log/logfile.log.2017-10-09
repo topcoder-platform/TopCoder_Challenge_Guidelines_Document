@@ -1,0 +1,307 @@
+(2017-10-09 12:05:34)  INFO [main] - util.DriverXMLGenerator.<init> 39 - *************** Generating Run XML ***************
+(2017-10-09 12:05:34)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-09 12:05:34)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 108 - building TestNG XML to execute automation tests for application : topcoder
+(2017-10-09 12:05:35)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 115 - Initialize SUITE node to build TestNG XML 
+(2017-10-09 12:05:35)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 117 - Initialize LISTENER node to build TestNG XML 
+(2017-10-09 12:05:35)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 120 - Setting attribute to SUITE node (name--testsuite) to build TestNG XML
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 74 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\TestCases\runorder_topcoder.xlsx file to build TestNG XML
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key :TopCoder -- value :YES
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 148 - Initialize TEST node to build TestNG XML for TC :TopCoder_001
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 177 - initialize INCLUDE node to build TestNG XML 
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 181 - Auto_TC_001 included for execution
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 197 - initialize document transformer to create TestNG XML
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 209 - verify if D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML exists to store TestNG XML
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 221 - finalizing TestNG XML file name : RRT_10092017_120536.xml
+(2017-10-09 12:05:36)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 225 - created D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML\RRT_10092017_120536.xml
+(2017-10-09 12:06:06)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-09 12:06:06)  INFO [main] - core.TestListener.onStart 54 - Test Configuration initialized successfully
+(2017-10-09 12:06:06)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:06:06)  INFO [main] - core.TestListener.onStart 71 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating
+(2017-10-09 12:06:22)  INFO [main] - core.TestListener.onStart 80 - Web Driver instance re-initiated successfully the Test Case :TopCoder_001
+(2017-10-09 12:06:22)  INFO [main] - core.TestBase.setData 51 - Setting data provider with TestData XLSX
+(2017-10-09 12:06:22)  INFO [main] - core.GetXLData.getTestDataMap 26 -  ****************************** testcases.app.topcoder.TopCoder_001 ****************************** 
+(2017-10-09 12:06:24)  INFO [main] - core.GetXLData.getLoopIndex 258 - computing pattern : 1 to get test data index
+(2017-10-09 12:06:24)  INFO [main] - core.TestListener.beforeInvocation 222 - Start extent report for Auto_TC_001
+(2017-10-09 12:06:24)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:06:24)  INFO [main] - core.TestListener.onStart 66 - Web Driver instance found to be active for the Test Case :TopCoder_001
+(2017-10-09 12:06:24)  INFO [main] - core.TestListener.beforeInvocation 240 - Setting Global Data Map Auto_TC_001
+(2017-10-09 12:06:24)  INFO [main] - pageobjects.TopCoderSSOPage.LaunchApp 45 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-09 12:06:24)  INFO [main] - core.TestListener.beforeNavigateTo 280 - Event Listener - Before Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:06:33)  INFO [main] - core.TestListener.afterNavigateTo 285 - Event Listener - After Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:06:33)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 78 - Login to the application with credential :topcoder.topgear1@wipro.com
+(2017-10-09 12:06:33)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : [Ljava.lang.CharSequence;@15cafec7
+(2017-10-09 12:06:33)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] is displayed
+(2017-10-09 12:06:33)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] display status true
+(2017-10-09 12:06:33)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:33)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:33)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:34)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:34)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:34)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:06:34)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : topcoder.topgear1@wipro.com
+(2017-10-09 12:06:34)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 80 - Click on Continue button
+(2017-10-09 12:06:34)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:06:34)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] is displayed
+(2017-10-09 12:06:34)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] display status true
+(2017-10-09 12:06:34)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:06:34)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:06:34)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:06:34)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 82 - Performed Login Successfully
+(2017-10-09 12:06:44)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 58 - Enter Wipro ADID :TO25582T@wipro.com
+(2017-10-09 12:06:44)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='userNameInput']] with value : [Ljava.lang.CharSequence;@47db5fa5
+(2017-10-09 12:06:44)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='userNameInput']] is displayed
+(2017-10-09 12:06:44)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='userNameInput']] display status true
+(2017-10-09 12:06:44)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='userNameInput']] with value : TO25582T@wipro.com
+(2017-10-09 12:06:45)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 60 - Enter AD Password :DcBa4#2!
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='passwordInput']] with value : [Ljava.lang.CharSequence;@590c73d3
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='passwordInput']] is displayed
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='passwordInput']] display status true
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='passwordInput']] with value : DcBa4#2!
+(2017-10-09 12:06:45)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 62 - Click on Sign In button
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //span[@id='submitButton']]
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //span[@id='submitButton']] is displayed
+(2017-10-09 12:06:45)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //span[@id='submitButton']] display status true
+(2017-10-09 12:06:45)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:06:48)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:06:48)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:06:48)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 65 - Performed Login Successfully
+(2017-10-09 12:07:38)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 41 - Click on Challenges.
+(2017-10-09 12:07:59) ERROR [main] - core.TestListener.onException 364 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Challenges' and @href='challenges']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-09 12:07:59)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 54 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Challenges' and @href='challenges']"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir5556_15830}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e43e888ca8ebf91ac9a86122ec802811
+*** Element info: {Using=xpath, value=//a[text()='Challenges' and @href='challenges']}
+(2017-10-09 12:07:59)  INFO [main] - core.TestListener.afterInvocation 179 - Extent report end test for Auto_TC_001
+(2017-10-09 12:07:59)  INFO [main] - core.TestListener.afterInvocation 183 - Setting testng report to fail in case of faliure  Auto_TC_001
+(2017-10-09 12:07:59)  INFO [main] - core.TestListener.afterInvocation 189 - Flushing report for Auto_TC_001
+(2017-10-09 12:08:01)  INFO [main] - core.TestListener.onFinish 127 - Close browser for suite :testsuite
+(2017-10-09 12:08:01) ERROR [main] - core.TestListener.onException 364 - Event Listener - On Exception org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+
+(2017-10-09 12:08:01)  INFO [main] - core.TestListener.onFinish 142 - Extent report closed
+(2017-10-09 12:12:29)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-09 12:12:29)  INFO [main] - core.TestListener.onStart 54 - Test Configuration initialized successfully
+(2017-10-09 12:12:29)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:12:29)  INFO [main] - core.TestListener.onStart 71 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating
+(2017-10-09 12:12:35)  INFO [main] - core.TestListener.onStart 80 - Web Driver instance re-initiated successfully the Test Case :TopCoder_001
+(2017-10-09 12:12:35)  INFO [main] - core.TestBase.setData 51 - Setting data provider with TestData XLSX
+(2017-10-09 12:12:35)  INFO [main] - core.GetXLData.getTestDataMap 26 -  ****************************** testcases.app.topcoder.TopCoder_001 ****************************** 
+(2017-10-09 12:12:37)  INFO [main] - core.GetXLData.getLoopIndex 258 - computing pattern : 1 to get test data index
+(2017-10-09 12:12:37)  INFO [main] - core.TestListener.beforeInvocation 222 - Start extent report for Auto_TC_001
+(2017-10-09 12:12:37)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:12:37)  INFO [main] - core.TestListener.onStart 66 - Web Driver instance found to be active for the Test Case :TopCoder_001
+(2017-10-09 12:12:38)  INFO [main] - core.TestListener.beforeInvocation 240 - Setting Global Data Map Auto_TC_001
+(2017-10-09 12:12:38)  INFO [main] - pageobjects.TopCoderSSOPage.LaunchApp 45 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-09 12:12:38)  INFO [main] - core.TestListener.beforeNavigateTo 280 - Event Listener - Before Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:13:17)  INFO [main] - core.TestListener.afterNavigateTo 285 - Event Listener - After Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:13:17)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 78 - Login to the application with credential :topcoder.topgear1@wipro.com
+(2017-10-09 12:13:17)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : [Ljava.lang.CharSequence;@736048ed
+(2017-10-09 12:13:17)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] is displayed
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] display status true
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : topcoder.topgear1@wipro.com
+(2017-10-09 12:13:18)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 80 - Click on Continue button
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] is displayed
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] display status true
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:13:18)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:13:18)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:13:18)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 82 - Performed Login Successfully
+(2017-10-09 12:13:29)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 58 - Enter Wipro ADID :TO25582T@wipro.com
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='userNameInput']] with value : [Ljava.lang.CharSequence;@5ae95707
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='userNameInput']] is displayed
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='userNameInput']] display status true
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='userNameInput']] with value : TO25582T@wipro.com
+(2017-10-09 12:13:29)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 60 - Enter AD Password :DcBa4#2!
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='passwordInput']] with value : [Ljava.lang.CharSequence;@39e43310
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='passwordInput']] is displayed
+(2017-10-09 12:13:29)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='passwordInput']] display status true
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:29)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:30)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:13:30)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='passwordInput']] with value : DcBa4#2!
+(2017-10-09 12:13:30)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 62 - Click on Sign In button
+(2017-10-09 12:13:30)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //span[@id='submitButton']]
+(2017-10-09 12:13:30)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //span[@id='submitButton']] is displayed
+(2017-10-09 12:13:30)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //span[@id='submitButton']] display status true
+(2017-10-09 12:13:30)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:13:32)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:13:32)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:13:32)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 65 - Performed Login Successfully
+(2017-10-09 12:15:38)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 41 - Click on Challenges.
+(2017-10-09 12:16:05) ERROR [main] - core.TestListener.onException 364 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Challenges' and @href='challenges']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-09 12:20:57)  INFO [main] - util.DriverXMLGenerator.<init> 39 - *************** Generating Run XML ***************
+(2017-10-09 12:20:57)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-09 12:20:57)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 108 - building TestNG XML to execute automation tests for application : topcoder
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 115 - Initialize SUITE node to build TestNG XML 
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 117 - Initialize LISTENER node to build TestNG XML 
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 120 - Setting attribute to SUITE node (name--testsuite) to build TestNG XML
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 74 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\TestCases\runorder_topcoder.xlsx file to build TestNG XML
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key :TopCoder -- value :YES
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 148 - Initialize TEST node to build TestNG XML for TC :TopCoder_001
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 177 - initialize INCLUDE node to build TestNG XML 
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 181 - Auto_TC_001 included for execution
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 197 - initialize document transformer to create TestNG XML
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 209 - verify if D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML exists to store TestNG XML
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 221 - finalizing TestNG XML file name : RRT_10092017_122058.xml
+(2017-10-09 12:20:58)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 225 - created D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML\RRT_10092017_122058.xml
+(2017-10-09 12:21:46)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-09 12:21:46)  INFO [main] - core.TestListener.onStart 54 - Test Configuration initialized successfully
+(2017-10-09 12:21:46)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:21:46)  INFO [main] - core.TestListener.onStart 71 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating
+(2017-10-09 12:21:51)  INFO [main] - core.TestListener.onStart 80 - Web Driver instance re-initiated successfully the Test Case :TopCoder_001
+(2017-10-09 12:21:51)  INFO [main] - core.TestBase.setData 51 - Setting data provider with TestData XLSX
+(2017-10-09 12:21:51)  INFO [main] - core.GetXLData.getTestDataMap 26 -  ****************************** testcases.app.topcoder.TopCoder_001 ****************************** 
+(2017-10-09 12:21:53)  INFO [main] - core.GetXLData.getLoopIndex 258 - computing pattern : 1 to get test data index
+(2017-10-09 12:21:53)  INFO [main] - core.TestListener.beforeInvocation 222 - Start extent report for Auto_TC_001
+(2017-10-09 12:21:53)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-09 12:21:53)  INFO [main] - core.TestListener.onStart 66 - Web Driver instance found to be active for the Test Case :TopCoder_001
+(2017-10-09 12:21:53)  INFO [main] - core.TestListener.beforeInvocation 240 - Setting Global Data Map Auto_TC_001
+(2017-10-09 12:21:53)  INFO [main] - pageobjects.TopCoderSSOPage.LaunchApp 45 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-09 12:21:53)  INFO [main] - core.TestListener.beforeNavigateTo 280 - Event Listener - Before Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:22:02)  INFO [main] - core.TestListener.afterNavigateTo 285 - Event Listener - After Navigate URL : https://topgear.topcoder.com/
+(2017-10-09 12:22:02)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 78 - Login to the application with credential :topcoder.topgear1@wipro.com
+(2017-10-09 12:22:02)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : [Ljava.lang.CharSequence;@15cafec7
+(2017-10-09 12:22:02)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] is displayed
+(2017-10-09 12:22:02)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] display status true
+(2017-10-09 12:22:02)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]]
+(2017-10-09 12:22:03)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]] with value : topcoder.topgear1@wipro.com
+(2017-10-09 12:22:03)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 80 - Click on Continue button
+(2017-10-09 12:22:03)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:22:03)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] is displayed
+(2017-10-09 12:22:03)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']] display status true
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:22:03)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]//following-sibling::button[text()='Continue']]
+(2017-10-09 12:22:03)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:22:03)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 82 - Performed Login Successfully
+(2017-10-09 12:22:13)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 58 - Enter Wipro ADID :TO25582T@wipro.com
+(2017-10-09 12:22:13)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='userNameInput']] with value : [Ljava.lang.CharSequence;@47db5fa5
+(2017-10-09 12:22:13)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='userNameInput']] is displayed
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='userNameInput']] display status true
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='userNameInput']]
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='userNameInput']] with value : TO25582T@wipro.com
+(2017-10-09 12:22:14)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 60 - Enter AD Password :DcBa4#2!
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 99 - Set text to input box  xpath: //input[@id='passwordInput']] with value : [Ljava.lang.CharSequence;@590c73d3
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //input[@id='passwordInput']] is displayed
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //input[@id='passwordInput']] display status true
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeChangeValueOf 342 - Event Listener - Before Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterChangeValueOf 347 - Event Listener - After Change Value of - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //input[@id='passwordInput']]
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.setTextToTextBox 106 - Value set to input box  xpath: //input[@id='passwordInput']] with value : DcBa4#2!
+(2017-10-09 12:22:14)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 62 - Click on Sign In button
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //span[@id='submitButton']]
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //span[@id='submitButton']] is displayed
+(2017-10-09 12:22:14)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //span[@id='submitButton']] display status true
+(2017-10-09 12:22:14)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:22:17)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //span[@id='submitButton']]
+(2017-10-09 12:22:17)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:22:17)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 65 - Performed Login Successfully
+(2017-10-09 12:23:07)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 41 - Click on Challenges.
+(2017-10-09 12:23:07)  INFO [main] - wrappers.GenericWrappers.clickOnElement 118 - Click on element  xpath: //a[text()='Challenges' and @href='/challenges']]
+(2017-10-09 12:23:07)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //a[text()='Challenges' and @href='/challenges']] is displayed
+(2017-10-09 12:23:07)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //a[text()='Challenges' and @href='/challenges']] display status true
+(2017-10-09 12:23:07)  INFO [main] - core.TestListener.beforeClickOn 332 - Event Listener - Before Click On - WebElement  xpath: //a[text()='Challenges' and @href='/challenges']]
+(2017-10-09 12:23:07)  INFO [main] - core.TestListener.afterClickOn 337 - Event Listener - After Click On - WebElement  xpath: //a[text()='Challenges' and @href='/challenges']]
+(2017-10-09 12:23:07)  INFO [main] - wrappers.GenericWrappers.clickOnElement 126 - Click on element statustrue
+(2017-10-09 12:23:16)  INFO [main] - wrappers.GenericWrappers.waitForElement 133 - Wait for element  xpath: //div[@id='challengeFilterContainer']//a[text()='Challenges']]
+(2017-10-09 12:23:16)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 39 - check if WebElement  xpath: //div[@id='challengeFilterContainer']//a[text()='Challenges']] is displayed
+(2017-10-09 12:23:16)  INFO [main] - wrappers.GenericWrappers.isWebElementDisplayed 55 - WebElement  xpath: //div[@id='challengeFilterContainer']//a[text()='Challenges']] display status true
+(2017-10-09 12:23:16)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 46 - Challenges Section is opened.
+(2017-10-09 12:23:16)  INFO [main] - core.TestListener.afterInvocation 179 - Extent report end test for Auto_TC_001
+(2017-10-09 12:23:16)  INFO [main] - core.TestListener.afterInvocation 189 - Flushing report for Auto_TC_001
+(2017-10-09 12:23:18)  INFO [main] - core.TestListener.onFinish 127 - Close browser for suite :testsuite
+(2017-10-09 12:23:18) ERROR [main] - core.TestListener.onException 364 - Event Listener - On Exception org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+
+(2017-10-09 12:23:18)  INFO [main] - core.TestListener.onFinish 142 - Extent report closed

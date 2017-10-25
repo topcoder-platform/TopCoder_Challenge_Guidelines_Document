@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 06 16:19:04 IST 2017
+009e1cb84f761418abe8d90f484688f21cc73ec1@proxy2.wipro.com\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1504694944893
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.testng\:testng\:jar\:sources\:6.10 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to authenticate with proxy

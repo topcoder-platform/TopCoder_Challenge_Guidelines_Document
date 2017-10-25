@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="92022" started-at="2017-10-09T06:51:46Z" finished-at="2017-10-09T06:53:18Z">
+    <groups>
+    </groups>
+    <test name="TopCoder_001" duration-ms="92022" started-at="2017-10-09T06:51:46Z" finished-at="2017-10-09T06:53:18Z">
+      <class name="testcases.app.topcoder.topcoder_testcases">
+        <test-method status="PASS" signature="Auto_TC_001(int, java.lang.Object)[pri:0, instance:testcases.app.topcoder.topcoder_testcases@7d907bac]" name="Auto_TC_001" duration-ms="83129" started-at="2017-10-09T12:21:53Z" data-provider="setData" finished-at="2017-10-09T12:23:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Auto_TC_001 -->
+      </class> <!-- testcases.app.topcoder.topcoder_testcases -->
+    </test> <!-- TopCoder_001 -->
+  </suite> <!-- testsuite -->
+</testng-results>

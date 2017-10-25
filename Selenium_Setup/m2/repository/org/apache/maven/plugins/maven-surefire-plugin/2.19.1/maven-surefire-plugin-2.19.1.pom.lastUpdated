@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 29 17:51:40 IST 2017
+a441ce1b76650e07071eb3fdd037683b21dc5fb7@proxy4.wipro.com\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1496060500001
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.19.1 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to authenticate with proxy

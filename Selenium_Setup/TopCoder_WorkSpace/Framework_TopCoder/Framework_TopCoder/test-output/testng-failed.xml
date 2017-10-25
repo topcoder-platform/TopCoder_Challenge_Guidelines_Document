@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testsuite]">
+  <listeners>
+    <listener class-name="core.TestListener"/>
+  </listeners>
+  <test name="TopCoder_001(failed)">
+    <classes>
+      <class name="testcases.app.topcoder.topcoder_testcases">
+        <methods>
+          <include name="Auto_TC_001"/>
+        </methods>
+      </class> <!-- testcases.app.topcoder.topcoder_testcases -->
+    </classes>
+  </test> <!-- TopCoder_001(failed) -->
+</suite> <!-- Failed suite [testsuite] -->

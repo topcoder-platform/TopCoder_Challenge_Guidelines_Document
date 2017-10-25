@@ -1,0 +1,377 @@
+(2017-10-07 16:33:03)  INFO [main] - util.DriverXMLGenerator.<init> 39 - *************** Generating Run XML ***************
+(2017-10-07 16:33:03)  INFO [main] - lib.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-07 16:33:03)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 108 - building TestNG XML to execute automation tests for application : topcoder
+(2017-10-07 16:33:03)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 115 - Initialize SUITE node to build TestNG XML 
+(2017-10-07 16:33:03)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 117 - Initialize LISTENER node to build TestNG XML 
+(2017-10-07 16:33:03)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 120 - Setting attribute to SUITE node (name--testsuite) to build TestNG XML
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 74 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\TestCases\runorder_topcoder.xlsx file to build TestNG XML
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key :TopCoder -- value :YES
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 148 - Initialize TEST node to build TestNG XML for TC :TopCoder_001
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 177 - initialize INCLUDE node to build TestNG XML 
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 181 - Auto_TC_001 included for execution
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:04)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 16:33:05)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 197 - initialize document transformer to create TestNG XML
+(2017-10-07 16:33:05)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 209 - verify if D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML exists to store TestNG XML
+(2017-10-07 16:33:05)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 221 - finalizing TestNG XML file name : RRT_10072017_163305.xml
+(2017-10-07 16:33:05)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 225 - created D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML\RRT_10072017_163305.xml
+(2017-10-07 16:33:15)  INFO [main] - lib.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-07 16:33:15)  INFO [main] - core.TestListener.onStart 53 - Test Configuration initialized successfully
+(2017-10-07 16:33:16)  INFO [main] - core.TestListener.onStart 62 -  ******************* Execution started for TopCoder_001******************
+(2017-10-07 16:33:16)  INFO [main] - core.TestListener.onStart 70 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating
+(2017-10-07 16:33:27)  INFO [main] - core.TestListener.onStart 79 - Web Driver instance re-initiated successfully the Test Case :TopCoder_001
+(2017-10-07 16:33:27)  INFO [main] - core.TestBase.setData 50 - Setting data provider with TestData XLSX
+(2017-10-07 16:33:27)  INFO [main] - core.GetXLData.getTestDataMap 26 -  ****************************** testcases.app.topcoder.TopCoder_001 ****************************** 
+(2017-10-07 16:33:28)  INFO [main] - core.GetXLData.getLoopIndex 258 - computing pattern : 1 to get test data index
+(2017-10-07 16:33:28)  INFO [main] - core.TestListener.beforeInvocation 221 - Start extent report for Auto_TC_001
+(2017-10-07 16:33:28)  INFO [main] - core.TestListener.onStart 62 -  ******************* Execution started for TopCoder_001******************
+(2017-10-07 16:33:28)  INFO [main] - core.TestListener.onStart 65 - Web Driver instance found to be active for the Test Case :TopCoder_001
+(2017-10-07 16:33:28)  INFO [main] - core.TestListener.beforeInvocation 239 - Setting Global Data Map Auto_TC_001
+(2017-10-07 16:33:28)  INFO [main] - pageobjects.TopCoderSSOPage.LaunchApp 45 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-07 16:33:28)  INFO [main] - core.TestListener.beforeNavigateTo 279 - Event Listener - Before Navigate URL : https://topgear.topcoder.com/
+(2017-10-07 16:34:28) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:28) ERROR [main] - pageobjects.TopCoderSSOPage.LaunchApp 52 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 78 - Login to the application with credential :topcoder.topgear1@wipro.com
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 98 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 74 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir2876_17953}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9c16a782c297ab621a746a9e10837997
+*** Element info: {Using=xpath, value=//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]}
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 58 - Enter Wipro ADID :TO25582T@wipro.com
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.setTextToTextBox 99 - Set text to input box xpath: //input[@id='userNameInput']' with value : [Ljava.lang.CharSequence;@557a1e2d
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //input[@id='userNameInput']' is displayed
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //input[@id='userNameInput']' display status false
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.setTextToTextBox 106 - Value set to input box xpath: //input[@id='userNameInput']' with value : 
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 60 - Enter AD Password :DcBa4#2!
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.setTextToTextBox 99 - Set text to input box xpath: //input[@id='passwordInput']' with value : [Ljava.lang.CharSequence;@5778826f
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //input[@id='passwordInput']' is displayed
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //input[@id='passwordInput']' display status false
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.setTextToTextBox 106 - Value set to input box xpath: //input[@id='passwordInput']' with value : 
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 62 - Click on Sign In button
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.clickOnElement 118 - Click on element xpath: //span[@id='submitButton']'
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //span[@id='submitButton']' is displayed
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //span[@id='submitButton']' display status false
+(2017-10-07 16:34:31)  INFO [main] - lib.Web.clickOnElement 126 - Click on element statusfalse
+(2017-10-07 16:34:31)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 65 - Performed Login Successfully
+(2017-10-07 16:35:21)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 41 - Click on Challenges.
+(2017-10-07 16:35:21) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Challenges' and @href='challenges']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 16:35:21)  INFO [main] - pageobjects.TopCoderLandingPage.NavigateToChallengesSection 54 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Challenges' and @href='challenges']"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir2876_17953}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9c16a782c297ab621a746a9e10837997
+*** Element info: {Using=xpath, value=//a[text()='Challenges' and @href='challenges']}
+(2017-10-07 16:35:21)  INFO [main] - core.TestListener.afterInvocation 178 - Extent report end test for Auto_TC_001
+(2017-10-07 16:35:21)  INFO [main] - core.TestListener.afterInvocation 182 - Setting testng report to fail in case of faliure  Auto_TC_001
+(2017-10-07 16:35:22)  INFO [main] - core.TestListener.afterInvocation 188 - Flushing report for Auto_TC_001
+(2017-10-07 16:35:24)  INFO [main] - core.TestListener.onFinish 126 - Close browser for suite :testsuite
+(2017-10-07 16:35:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+
+(2017-10-07 16:35:24)  INFO [main] - core.TestListener.onFinish 141 - Extent report closed
+(2017-10-07 17:10:53)  INFO [main] - util.DriverXMLGenerator.<init> 39 - *************** Generating Run XML ***************
+(2017-10-07 17:10:53)  INFO [main] - lib.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-07 17:10:53)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 108 - building TestNG XML to execute automation tests for application : topcoder
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 115 - Initialize SUITE node to build TestNG XML 
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 117 - Initialize LISTENER node to build TestNG XML 
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 120 - Setting attribute to SUITE node (name--testsuite) to build TestNG XML
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 74 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\TestCases\runorder_topcoder.xlsx file to build TestNG XML
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key :TopCoder -- value :YES
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 17:10:54)  INFO [main] - util.DriverXMLGenerator.ReadRunOrder 82 - setting @runOrderDet with key : -- value :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 148 - Initialize TEST node to build TestNG XML for TC :TopCoder_001
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 177 - initialize INCLUDE node to build TestNG XML 
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 181 - Auto_TC_001 included for execution
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 168 - Manual Test case name not provided for Test Case :
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 197 - initialize document transformer to create TestNG XML
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 209 - verify if D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML exists to store TestNG XML
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 221 - finalizing TestNG XML file name : RRT_10072017_171055.xml
+(2017-10-07 17:10:55)  INFO [main] - util.DriverXMLGenerator.BuildTestNGXML 225 - created D:\Testing\Framework_TopCoder\Framework_TopCoder\RunXML\RRT_10072017_171055.xml
+(2017-10-07 17:11:06)  INFO [main] - lib.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-07 17:11:06)  INFO [main] - core.TestListener.onStart 53 - Test Configuration initialized successfully
+(2017-10-07 17:11:06)  INFO [main] - core.TestListener.onStart 62 -  ******************* Execution started for TopCoder_001******************
+(2017-10-07 17:11:06)  INFO [main] - core.TestListener.onStart 70 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating
+(2017-10-07 17:11:17)  INFO [main] - core.TestListener.onStart 79 - Web Driver instance re-initiated successfully the Test Case :TopCoder_001
+(2017-10-07 17:11:17)  INFO [main] - core.TestBase.setData 50 - Setting data provider with TestData XLSX
+(2017-10-07 17:11:17)  INFO [main] - core.GetXLData.getTestDataMap 26 -  ****************************** testcases.app.topcoder.TopCoder_001 ****************************** 
+(2017-10-07 17:11:20)  INFO [main] - core.GetXLData.getLoopIndex 258 - computing pattern : 1 to get test data index
+(2017-10-07 17:11:20)  INFO [main] - core.TestListener.beforeInvocation 221 - Start extent report for Auto_TC_001
+(2017-10-07 17:11:20)  INFO [main] - core.TestListener.onStart 62 -  ******************* Execution started for TopCoder_001******************
+(2017-10-07 17:11:20)  INFO [main] - core.TestListener.onStart 65 - Web Driver instance found to be active for the Test Case :TopCoder_001
+(2017-10-07 17:11:20)  INFO [main] - core.TestListener.beforeInvocation 239 - Setting Global Data Map Auto_TC_001
+(2017-10-07 17:11:21)  INFO [main] - pageobjects.TopCoderSSOPage.LaunchApp 45 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-07 17:11:21)  INFO [main] - core.TestListener.beforeNavigateTo 279 - Event Listener - Before Navigate URL : https://topgear.topcoder.com/
+(2017-10-07 17:12:21) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:21) ERROR [main] - pageobjects.TopCoderSSOPage.LaunchApp 52 - Launching the Application : https://topgear.topcoder.com/
+(2017-10-07 17:12:23)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 78 - Login to the application with credential :topcoder.topgear1@wipro.com
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:23)  INFO [main] - pageobjects.TopCoderSSOPage.LoginToTopCoder 98 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 139 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir10252_4470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 82b241e3e3a8e375421b2306908cf1e2
+*** Element info: {Using=xpath, value=//input[@ng-model='vm.emailOrHandle' or placeholder='Email or handle' ]}
+(2017-10-07 17:12:23)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 58 - Enter Wipro ADID :TO25582T@wipro.com
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:23)  INFO [main] - lib.Web.setTextToTextBox 99 - Set text to input box xpath: //input[@id='userNameInput']' with value : [Ljava.lang.CharSequence;@557a1e2d
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:23)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //input[@id='userNameInput']' is displayed
+(2017-10-07 17:12:23) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //input[@id='userNameInput']' display status false
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='userNameInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.setTextToTextBox 106 - Value set to input box xpath: //input[@id='userNameInput']' with value : 
+(2017-10-07 17:12:24)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 60 - Enter AD Password :DcBa4#2!
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.setTextToTextBox 99 - Set text to input box xpath: //input[@id='passwordInput']' with value : [Ljava.lang.CharSequence;@5778826f
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //input[@id='passwordInput']' is displayed
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //input[@id='passwordInput']' display status false
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordInput']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.setTextToTextBox 106 - Value set to input box xpath: //input[@id='passwordInput']' with value : 
+(2017-10-07 17:12:24)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 62 - Click on Sign In button
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.clickOnElement 118 - Click on element xpath: //span[@id='submitButton']'
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.isWebElementDisplayed 39 - check if WebElement xpath: //span[@id='submitButton']' is displayed
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='submitButton']"}
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.isWebElementDisplayed 55 - WebElement xpath: //span[@id='submitButton']' display status false
+(2017-10-07 17:12:24)  INFO [main] - lib.Web.clickOnElement 126 - Click on element statusfalse
+(2017-10-07 17:12:24)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 65 - Performed Login Successfully
+(2017-10-07 17:13:16) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:13:16)  INFO [main] - pageobjects.SignInWiproPage.LoginToWipro 72 - chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.02 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir10252_4470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 82b241e3e3a8e375421b2306908cf1e2
+(2017-10-07 17:13:16) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:13:16) ERROR [main] - core.TestListener.afterInvocation 151 - Failing test Auto_TC_001exception occcured
+(2017-10-07 17:13:20) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:13:25) ERROR [main] - core.TestListener.onException 363 - Event Listener - On Exception org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+
+(2017-10-07 17:13:25)  INFO [main] - util.reporter.HTMLReporter.Log 124 - Exception occurred org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'D-441006776', ip: '10.145.229.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\DE361207\AppData\Local\Temp\scoped_dir10252_4470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 82b241e3e3a8e375421b2306908cf1e2
+(2017-10-07 17:13:25)  INFO [main] - core.TestListener.afterInvocation 178 - Extent report end test for Auto_TC_001
+(2017-10-07 17:13:25)  INFO [main] - core.TestListener.afterInvocation 182 - Setting testng report to fail in case of faliure  Auto_TC_001
+(2017-10-07 17:13:26)  INFO [main] - core.TestListener.afterInvocation 188 - Flushing report for Auto_TC_001
+(2017-10-07 17:13:26)  INFO [main] - core.TestListener.onFinish 126 - Close browser for suite :testsuite
+(2017-10-07 17:13:26)  INFO [main] - core.TestListener.onFinish 141 - Extent report closed

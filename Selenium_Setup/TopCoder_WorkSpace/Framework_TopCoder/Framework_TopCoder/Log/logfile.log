@@ -1,0 +1,4 @@
+(2017-10-10 20:47:37)  INFO [main] - wrappers.Common.loadConfigProperty 55 - reading D:\Testing\Framework_TopCoder\Framework_TopCoder\testconfig.properties file
+(2017-10-10 20:47:37)  INFO [main] - core.TestListener.onStart 54 - Test Configuration initialized successfully
+(2017-10-10 20:47:37)  INFO [main] - core.TestListener.onStart 63 -  ******************* Execution started for TopCoder_001******************
+(2017-10-10 20:47:37)  INFO [main] - core.TestListener.onStart 71 - Web Driver instance found to be inactive for the Test Case :TopCoder_001 ,hence re-initiating

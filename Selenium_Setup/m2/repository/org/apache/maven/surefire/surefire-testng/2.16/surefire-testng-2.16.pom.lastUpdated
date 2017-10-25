@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 29 17:46:59 IST 2017
+a441ce1b76650e07071eb3fdd037683b21dc5fb7@proxy4.wipro.com\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1496060219355
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-testng\:pom\:2.16 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to authenticate with proxy
